@@ -1,7 +1,7 @@
 # Hi there, I'm [Emir Sanal] 👋  
 
 🎓 **Computer Engineering Student (Graduating in 2028)**  
-💻 **Tech Stack:** HTML, CSS, JavaScript, C++  
+💻 **Tech Stack:** HTML, CSS, JavaScript, Java, C++  
 🌍 **Interests:** Web & Mobile Development  
 
 ## 🚀 About Me  
