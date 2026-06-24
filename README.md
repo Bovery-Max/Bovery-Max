@@ -14,7 +14,7 @@
 </p>
 
 ## 🙋‍♂️ About Me
-* 🎓 I am a 2nd-year **Computer Engineering** student at Doğuş University.
+* 🎓 I am a 3rd-year **Computer Engineering** student at Doğuş University.
 * 💡 I am passionate about **Web and Mobile Application Development**.
 * 🏗️ Currently building projects using **React, TypeScript**, and modern web technologies.
 * 🌱 Continually improving my skills in **Java, Python and C++**.
