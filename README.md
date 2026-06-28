@@ -44,6 +44,7 @@
 | **🎵 SoundPlay** | A full-scale music web application inspired by Spotify. Features include playlist management, search, favorites, and real-time functionality. | React, TypeScript, Vite, Tailwind CSS, Supabase |
 | **⚔️ Military History** | An educational website covering historical battles, legendary commanders, and military history. | HTML, CSS, JavaScript |
 | **🌐 Simple Website** | A personal static website featuring Home, About, Gallery, and Contact pages. Built with a custom CSS grid system. | HTML, CSS |
+| **🍰 Sweet Horizon Bakery** | A modern, responsive bakery website with multi-page navigation (Home, Cakes, Desserts, Cookies & Pastries, Contact, Location) and an elegant warm-toned UI. | React, TypeScript, Vite, Tailwind CSS |
 
 ## 📊 GitHub Stats
 
