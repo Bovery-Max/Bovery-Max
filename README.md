@@ -21,7 +21,6 @@
 * 🎯 My goal: To become a **Full-Stack Developer**.
 
 ## 🛠️ Tech Stack & Tools
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,7 +37,6 @@
 </p>
 
 ## 📂 Projects
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🎵 SoundPlay** | A full-scale music web application inspired by Spotify. Features include playlist management, search, favorites, and real-time functionality. | React, TypeScript, Vite, Tailwind CSS, Supabase |
@@ -47,15 +45,16 @@
 | **🍰 Sweet Horizon Bakery** | A modern, responsive bakery website with multi-page navigation (Home, Cakes, Desserts, Cookies & Pastries, Contact, Location) and an elegant warm-toned UI. | React, TypeScript, Vite, Tailwind CSS |
 
 ## 📊 GitHub Stats
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bovery-Max&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bovery-Max&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bovery-Max&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bovery-Max&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Get in Touch
 Feel free to reach out if you'd like to collaborate or just talk about my projects!
-
 * 💼 [LinkedIn](https://www.linkedin.com/in/emir-sanal-12432b322/)
 * 🐙 [GitHub](https://github.com/Bovery-Max)
 
